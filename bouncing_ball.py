@@ -5,7 +5,6 @@ CANVAS_WIDTH = 600
 CANVAS_HEIGHT = 600
 CHANGE_X_START = 10
 CHANGE_Y_START = 7
-BALL_SIZE = 50
 
 def main():
     ball_size = int(input('Enter the size of the ball (1 - 400): '))
